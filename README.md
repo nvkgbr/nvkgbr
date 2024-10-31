@@ -1,7 +1,5 @@
 <p align="center">
-    <a href="https://github.com/nvkgbr"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nvkgbr&count_private=true&theme=tokyonight&show_icons=true&hide_border=true"></a>
-    <a href="https://github.com/nvkgbr"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nvkgbr&count_private=true&theme=tokyonight&hide_border=true"></a>
-    
+    👁️👁️
 </p>
 
 <!---
